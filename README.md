@@ -1,2 +1,2 @@
 # RockPS-JS
-Rock Paper Scissors - HTML, CSS, JavaScript
+HTML, CSS, JavaScript - Rock Paper Scissors
